@@ -1,0 +1,25 @@
+body{background-image: url(art/rockss.png)
+;}
+
+#stage {position: relative;
+        width: 400px;
+        height: 400px;
+        background: whitesmoke;
+        margin: 0 auto;
+        border: 4px solid red;
+    }
+
+#player {position: absolute;
+         width: 40px;
+         height: 40px;
+         color: gold;
+         top: 180px;
+         left: 180px;
+         
+}
+
+.con {margin-top: 20px;}
+
+button {padding: 10px 20px;
+        margin: 5px;
+}
